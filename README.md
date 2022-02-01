@@ -1,2 +1,3 @@
 # main_archive
-This is the main archived repository for src-fingerprint
+
+This repository is the main archived repository for src-fingerprint user.
